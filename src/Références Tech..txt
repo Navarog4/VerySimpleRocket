@@ -1,0 +1,10 @@
+Blanc : -1
+Noir : 1
+
+Taille du Goban et regles : 400*450
+
+
+Taille des cases : 30.5*30.5
+
+
+Taille des pierres : 28*28
